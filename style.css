@@ -125,9 +125,14 @@ a {
         width: 100%;
         margin-top: 1rem;
     }
-    .section_two {
+    .rightside {
         width: 100%;
         margin-bottom: 1rem;
     }
-    
+    #disclaimer {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 }
